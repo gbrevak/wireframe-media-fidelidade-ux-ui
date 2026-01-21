@@ -1,7 +1,3 @@
-# wireframe-media-fidelidade-ux-ui
-O objetivo principal é aplicar os conceitos, como a psicologia aplicada e as leis de usabilidade, como as de Bastien e Nielsen, para garantir que a interface seja intuitiva e funcional.
-Wireframe BaaS — Média Fidelidade
-
 Objetivo
 
 Este projeto apresenta um wireframe de média fidelidade para uma plataforma BaaS (Banking as a Service), com foco em aplicar princípios de psicologia cognitiva e leis de usabilidade para garantir uma interface intuitiva, funcional e centrada no usuário.
